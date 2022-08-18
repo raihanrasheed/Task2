@@ -1,0 +1,66 @@
+.form{
+   font-size: 20px;
+   font-family: 'Courier New', Courier, monospace;
+   
+   padding-top: 100px;
+
+}
+
+.check{
+    display: flex;
+
+   justify-content: space-between;
+   
+   padding-right: 100px;
+   padding-top: 20px;
+   padding-bottom: 15px;
+   padding-left: 40px;
+   border: 2px solid blanchedalmond;
+ margin-left: 500px;
+ margin-right: 400px;
+   
+   border-width: 11px;
+   border-radius: 12px;
+}
+#in{
+    float: right;
+    width: 25px;
+margin-right: 22px;
+}
+.cancel{
+    margin-left: 600px;
+    margin-top: 50px;
+    width: 100px;
+    height: 34px;
+   background-color: blanchedalmond;
+    color: brown;
+}
+.save{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 100px;
+    width: 100px;
+    height: 34px;
+    background-color:blanchedalmond ; 
+    color: brown;
+}
+
+h{
+    font-size: larger;
+    font-size: 22px;
+margin-left: 550px;
+margin-bottom: 50px;
+padding-bottom: 11px;
+padding-top: 11px;
+}
+
+#search{
+    width: 250px;
+    height: 25px;
+}
+label{
+    padding-left: 22px;
+    margin-left: 11px;
+    margin-right: 200px;
+}
+
